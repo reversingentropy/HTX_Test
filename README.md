@@ -7,7 +7,7 @@ The test consists of two main task groups:
 1. **Model Prediction Tasks**  
 2. **Link Analysis Tasks**  
 
-Each task group is implemented in a **separate Jupyter Notebook**, containing code, outputs, visualizations, and explanations tailored for both technical and non-technical audiences.
+Each task group is implemented in a **separate Jupyter Notebook**, containing code, outputs, visualizations, and explanations.
 
 ---
 
@@ -53,3 +53,4 @@ Each task group is implemented in a **separate Jupyter Notebook**, containing co
   - Data transformations  
   - Feature engineering  
  
+
